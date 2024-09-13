@@ -1,6 +1,6 @@
 # Lista de Exercícios
 
-Este projeto contém uma série de exercícios em TypeScript, cada um em um arquivo `.ts` separado.
+Este projeto contém uma série de exercícios em TypeScript separados em listas, cada um em um arquivo `.ts` separado.
 
 ## Estrutura do Projeto
 
@@ -8,21 +8,16 @@ O projeto está organizado da seguinte forma:
 
 ```
 /exercises
-├── 01.ts
-├── 02.ts
-├── 03.ts
-├── 04.ts
-├── 05.ts
-├── 06.ts
-├── 07.ts
-├── 08.ts
-├── 09.ts
-├── 10.ts
-├── 11.ts
-├── 12.ts
-├── 13.ts
-├── 14.ts
-└── 15.ts
+├── /list01
+│   ├── 01.ts
+│   ├── 02.ts
+│   ├── 03.ts
+│   └── ...
+├── /list02
+│   ├── 01.ts
+│   ├── 02.ts
+│   ├── 03.ts
+│   └── ...
 ```
 
 Cada arquivo contém uma solução para um exercício específico.
@@ -48,14 +43,12 @@ Para começar, você precisa configurar o ambiente de desenvolvimento.
 
 Cada exercício pode ser executado individualmente usando o `ts-node`. Os scripts são definidos no arquivo `package.json` e podem ser executados com os seguintes comandos:
 
-- Exercício 01: npm run exercise01
-- Exercício 02: npm run exercise02
-- Exercício 03: npm run exercise03
-- Exercício 04: npm run exercise04
-- Exercício 05: npm run exercise05
-- Exercício 06: npm run exercise06
+- **Exercício 01 da lista 01:** npm run list01exercise01
+- **Exercício 02 da lista 01:** npm run list01exercise02
+- **Exercício 03 da lista 01:** npm run list01exercise03
 - [...]
-- Exercício 15: npm run exercise15
+- **Exercício 01 da lista 02:** npm run list02exercise01
+- [...]
 
 ## Dependências
 
