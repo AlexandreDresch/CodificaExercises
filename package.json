@@ -14,7 +14,22 @@
     "list01exercise12": "ts-node exercises/list01/12.ts",
     "list01exercise13": "ts-node exercises/list01/13.ts",
     "list01exercise14": "ts-node exercises/list01/14.ts",
-    "list01exercise15": "ts-node exercises/list01/15.ts"
+    "list01exercise15": "ts-node exercises/list01/15.ts",
+    "list02exercise01": "ts-node exercises/list02/01.ts",
+    "list02exercise02": "ts-node exercises/list02/02.ts",
+    "list02exercise03": "ts-node exercises/list02/03.ts",
+    "list02exercise04": "ts-node exercises/list02/04.ts",
+    "list02exercise05": "ts-node exercises/list02/05.ts",
+    "list02exercise06": "ts-node exercises/list02/06.ts",
+    "list02exercise07": "ts-node exercises/list02/07.ts",
+    "list02exercise08": "ts-node exercises/list02/08.ts",
+    "list02exercise09": "ts-node exercises/list02/09.ts",
+    "list02exercise10": "ts-node exercises/list02/10.ts",
+    "list02exercise11": "ts-node exercises/list02/11.ts",
+    "list02exercise12": "ts-node exercises/list02/12.ts",
+    "list02exercise13": "ts-node exercises/list02/13.ts",
+    "list02exercise14": "ts-node exercises/list02/14.ts",
+    "list02exercise15": "ts-node exercises/list02/15.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
